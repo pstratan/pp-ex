@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.container{
+    padding: 20px;
+}
+#team_hover{
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+#img_center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#modal_style{
+  align-content:center;
+}
+#modal_h3{
+  text-align: center;
+}
+#modal_scroll{
+  box-sizing: border-box;
+  overflow-y: scroll;
+  border-top: none;
+  border-bottom: none;
+  max-height: 150px;
+}
